@@ -1,6 +1,8 @@
 👋 Hi, I’m Chloe!
 Professional Chef in school for Software Enginnering 
+
 🌱 I’m currently learning java, assembly, and digital circuits
+
 Lets create together!
 
 <!---
